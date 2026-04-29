@@ -10,7 +10,7 @@ A Flask-based web app providing interactive calculators for key wireless communi
 Each calculator offers optional AI-powered explanations via Gemini (Google Generative AI) and Groq LLM.
 You can try it out here: [Live Demo](https://wirelesswizards-taleen-mayar.onrender.com)
 
-![](images/IMG1.png)
+![](images/img1.png)
 
 ---
 
